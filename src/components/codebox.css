@@ -1,0 +1,16 @@
+.codebox ::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+  }
+  
+  .codebox ::-webkit-scrollbar-track {
+    background: transparent; 
+  }
+   
+  .codebox ::-webkit-scrollbar-thumb {
+    background: #333333; 
+  }
+  
+  .codebox ::-webkit-scrollbar-thumb:hover {
+    background: #444444; 
+  }
